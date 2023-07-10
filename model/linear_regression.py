@@ -1,7 +1,7 @@
 from functools import partial
 from random import gauss
 
-from optimizer.GD import GD
+from optimizer.gradient_descent import GD
 
 
 class LinearRegression:
