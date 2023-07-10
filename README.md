@@ -1,5 +1,5 @@
 # California-Housing-Prices-Linear-Regression
-Linear Regression for https://www.kaggle.com/datasets/camnugent/california-housing-prices
+Gradient descent linear regression for https://www.kaggle.com/datasets/camnugent/california-housing-prices
 ## Prediction vs Target
 ![image](https://github.com/SXKA/California-Housing-Prices-Linear-Regression/blob/master/discrepancy.png)
 ## Residual Plot
