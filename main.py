@@ -6,8 +6,8 @@ import seaborn as sns
 from pandas import read_csv
 from scipy.stats import norm
 
-from model.LinearRegression import LinearRegression
-from optimizer.GD import GD
+from model.linear_regression import LinearRegression
+from optimizer.gradient_descent import GD
 
 
 def main():
